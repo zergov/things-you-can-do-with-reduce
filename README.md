@@ -1,6 +1,7 @@
 # Things you can do with reduce
+Reduce is a high order function and can be found in many programming languages.
 
-`reduce` is a method exposed by the javascript array. `reduce` is a powerful function that can be used to implement powerful
+In javascript, `reduce` [is a method exposed by the javascript array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce). `reduce` is a powerful function that can be used to implement powerful
 programming tools involving collections.
 
 This repo exposes only a surface of the things you can build using `reduce`.
