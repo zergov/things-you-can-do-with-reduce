@@ -1,4 +1,4 @@
-# Having fun with reduce
+# Things you can do with reduce
 
 `reduce` is a method exposed by the javascript array. `reduce` is a powerful function that can be used to implement powerful
 programming tools involving collections.
